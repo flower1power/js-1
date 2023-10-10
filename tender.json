@@ -1,0 +1,102 @@
+{
+  "Sum": 123456789.00,
+  "date": "2023-05-12T07:46:39Z",
+  "guid": "90b0052f-dc5e-4e41-86d2-4af0f2a5b9ce",
+  "lots": [
+    {
+      "groups": [
+        {
+          "guid": "90ee766c-c7b4-4f2a-9e34-19cb7ada9934",
+          "kinds": [
+            {
+              "smr": 0,
+              "sum": 0,
+              "guid": "2a38dc70-a4db-46c9-b6cb-60b04c87ce3b",
+              "volume": 0,
+              "comment": "01. Изготовление ограждение триплекс. 02. Сверление отверстий. 03. Монтаж ограждения.\n",
+              "kindGuid": "0176b226-416c-11ec-8100-005056b874f5",
+              "totalSmr": 0,
+              "totalSum": 0,
+              "unitGuid": "c62806d9-9cd5-11e6-80d4-00155d119f09",
+              "materials": [],
+              "serialNumber": 0,
+              "mainMaterials": 0,
+              "hierarcheNumber": "1.1",
+              "totalMainMaterials": 0
+            }
+          ],
+          "comment": "",
+          "totalSmr": 1,
+          "totalSum": 2,
+          "groupGuid": "fb0c9bfc-6f64-11ea-80f2-005056b874f5",
+          "subsection": "БКТ",
+          "serialNumber": 2,
+          "hierarcheNumber": "1",
+          "totalMainMaterials": 3
+        }
+      ],
+      "lotGuid": "Lot01_655e9968-9dec-4c1c-b347-71be57034088",
+      "lotName": "Лот №1",
+      "lotRowGuid": "c87da021-d921-47b6-b445-4c05110c6520"
+    }
+  ],
+  "name": "Новый тендер",
+  "user": "v.lobyntsev",
+  "files": [
+    {
+      "filename": "Тест1 ГДРС",
+      "filetype": "ГДРС",
+      "linkMinIo": "https://storage.samoletgroup.ru:9000/1cbit/TZf938c475-f0c8-11ed-8008-005056b836a5.docx"
+    },
+    {
+      "filename": "ГПР Тест2",
+      "filetype": "ГПР",
+      "linkMinIo": "https://storage.samoletgroup.ru:9000/1cbit/GPR_UB_1_Ograzhdenie_terass_i_kozirkov16ddb156-f09d-11ed-810f-005056b80223.xlsx"
+    },
+    {
+      "filename": "Тест3 Прочее",
+      "filetype": "Прочее",
+      "linkMinIo": "https://storage.samoletgroup.ru:9000/1cbit/GPR_UB_2_Ograzhdenie_terass_i_kozirkov1d71ecac-f09d-11ed-810f-005056b80223.xlsx"
+    },
+    {
+      "filename": "ТЗ Тест4",
+      "filetype": "ТехническоеЗадание",
+      "linkMinIo": "https://storage.samoletgroup.ru:9000/1cbit/GPR_UB_3_Ograzhdenie_terass_i_kozirkov23d13b2f-f09d-11ed-810f-005056b80223.xlsx"
+    },
+    {
+      "filename": "Тест5 ПД",
+      "filetype": "ПроектнаяДокументация",
+      "linkMinIo": "https://storage.samoletgroup.ru:9000/1cbit/GPR_UB_4_Ograzhdenie_terass_i_kozirkov2a7b6fae-f09d-11ed-810f-005056b80223.xlsx"
+    },
+    {
+      "filename": "Тест6 ПроектДоговора",
+      "filetype": "ПроектДоговора",
+      "linkMinIo": "https://storage.samoletgroup.ru:9000/1cbit/GDRS_UB_1_Ograzhdenie_terass_i_kozirkov3074eec6-f09d-11ed-810f-005056b80223.xlsx"
+    },
+    {
+      "filename": "ГДРС УБ 2 Ограждение терасс и козырьков",
+      "filetype": "ГДРК",
+      "linkMinIo": "https://storage.samoletgroup.ru:9000/1cbit/GDRS_UB_2_Ograzhdenie_terass_i_kozirkov3674416d-f09d-11ed-810f-005056b80223.xlsx"
+    }
+  ],
+  "SumVAT": 5133593.66,
+  "number": "ЖС00-021962",
+  "guidDoc": "ad32c4ae-0eae-11ee-80fe-005056b84458",
+  "linkBIT": "e1c://server/sd-ap01/bitFinans#e1cib/data/Документ.бит_ПроектДоговора?ref=810f005056b8022311edf09a0404d79c",
+  "rateVAT": "20",
+  "SumWithVAT": 30801562.03,
+  "projectGuid": "2c068277-b2a7-4fb1-b112-67c836e0086d",
+  "contractGuid": null,
+  "documentType": "бит_ПроектДоговора",
+  "durationDate": "2023-05-18T21:00:00Z",
+  "userEstimator": "v.lobyntsev",
+  "contractSubject": "Выполнение работ по монтажу козырьков и ограждению террас.",
+  "userResponsible": "v.lobyntsev",
+  "contractKindName": "Прочее",
+  "contractTypeGuid": "e51b8148-f63d-11e5-9c60-00155d02d800",
+  "contractTypeName": "СМР",
+  "organizationGuid": "b3c71c16-583e-11e8-80e4-005056b874f5",
+  "basicContractGuid": "",
+  "projectDocTypeGuid": "82f3d573-80f4-11ea-80f2-005056b874f5",
+  "projectDocTypeName": "Инициация потребности"
+}
