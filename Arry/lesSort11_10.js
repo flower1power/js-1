@@ -1,4 +1,4 @@
-const users = ["Вася", "Маша", "Катя", "Аня"];
+const users = ['Вася', 'Маша', 'Катя', 'Аня'];
 console.log(users);
 users.sort();
 console.log(users);
@@ -6,8 +6,8 @@ console.log(users);
 const operations = [100, -300, -100, 50, 480];
 console.log(operations);
 
-// < 0 - a, b - сохраняем порядок
-// > 0 - a, b - меняем порядок
+//! < 0 - a, b - сохраняем порядок
+//! > 0 - a, b - меняем порядок
 operations.sort((a, b) => {
   if (a > b) {
     return 1;
