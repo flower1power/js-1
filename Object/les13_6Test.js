@@ -47,8 +47,8 @@ const wallet2 = {
   increase: function (sum, reason) {
     this.balance += sum;
     this.operations.push({
-      reason: reason,
-      sum: sum,
+      reason: reason, // можно оставить просто reason
+      sum: sum, // можно оставить просто sum
     });
     return true;
   },
@@ -59,8 +59,8 @@ const wallet2 = {
     }
     this.balance -= sum;
     this.operations.push({
-      reason: reason,
-      sum: -sum,
+      reason: reason, // можно оставить просто reason
+      sum: -sum, //! тут нельзя так как есть операция
     });
     return true;
   },
